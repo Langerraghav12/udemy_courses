@@ -43,3 +43,14 @@ You can take the reference from below example and structure your information sim
       "certification" : "paid"
     }
   ]
+{
+      "id" :  3,
+      "platform" : "Udemy",
+      "free_course" : "yes",
+      "course_name" : "Basic C",
+      "link" : "https://udemy.com/Basic-java",
+      "difficulty" : "beginner",
+      "module_number" : 7,
+      "certification" : "free"
+    }
+  ]
